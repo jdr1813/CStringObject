@@ -1,2 +1,1 @@
-# empty
-empty repository with only a readme
+Creating a String object similar to Python in C++.
